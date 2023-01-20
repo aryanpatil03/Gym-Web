@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@600&display=swap');
+.secright {
+    height: 490px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+    max-width: 80%;
+
+}
+.new{
+    height:363px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+    max-width: 80%;
+    color:white;
+}
+
+.secright1 {
+    height: 490px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+    max-width: 80%;
+    color: white;
+}
+
+.secleft {
+    height: 289px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+    max-width: 80%;
+    color: white;
+    flex-direction: row-reverse;
+
+}
+
+.sectionsubtag1 {
+    padding: 0 27px;
+    font-size: 20px;
+}
+.sectionsubtag{
+    font-size: 20px;
+}
+.sectionsubtag2{
+    font-size: 20px;
+}
+
+.sectiontag1 {
+    padding: 0 27px;
+    font-family: 'Oswald', sans-serif;
+    color: goldenrod;
+    font-size: 30px;
+}
+
+
+.sectiontag{
+    /* padding: 0 27px; */
+    font-family: 'Oswald', sans-serif;
+    color: goldenrod;
+    font-size: 30px;
+}
+.sectiontag2{
+    /* padding: 0 27px; */
+    font-family: 'Oswald', sans-serif;
+    color: goldenrod;
+    font-size: 30px;
+}
+
+.imgfluid {
+    width: 362px;
+    height: 239px;
+    position: relative;
+    right: -8px;
+}
+
+.paras {
+    padding: 0px 0px;
+}
+.cyclegraphic{
+    width: 300px;
+}
+.try{
+    height: 314px;
+    width: 500px;
+}
+.trail{
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    color:rgb(248, 181, 13);
+}
+.trailform{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* color:orange; */
+}
+footer{
+    background-color:#2e2c2c;
+}

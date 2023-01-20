@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+.programs{
+    /* float:left; */
+    /* display:flex; */
+    /* float:left; */
+    color:white;
+    text-align:center;
+    margin-left: 37px;
+    margin-top: 75px;
+}
+.prog-pics{
+    width: 439px;
+    height: 285px;
+    border:4px solid gold;
+    border-radius:10%;
+}
+.prog-pics:hover{
+    box-shadow: 0 0 50px goldenrod;
+}
+.discription{
+    font-family: 'Kanit', sans-serif;
+    font-size:25px;
+}
+.newadd{
+    color:white;
+}

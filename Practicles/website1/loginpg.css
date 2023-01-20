@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  background-image:url(/Practicles/website1/images/pexels-leon-ardho-1552252.jpg);
+  height:100vh;
+
+}
+.container{
+    position:absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% ,-50%);
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    border-radius: 6px ;
+    box-shadow: 0px 0px 30px white;
+}
+h2{
+    text-align: center;
+}
+.text-border{
+    border:none;
+    border-bottom: 1px solid black;
+}
+.button{
+    margin:5px;
+}
+.btn{
+    width:390px;
+    padding: 3px;
+    border: none;
+    border-radius: 6px;
+    background-color: dodgerblue;
+    font-size: 15px;
+}
+.btn:hover{
+   background-color: rgb(23, 115, 207);
+   box-shadow: 2px 2px 3px black;
+}
+p{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
